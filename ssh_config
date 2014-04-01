@@ -1,0 +1,9 @@
+Host deals.lv 
+     User aerobitch 
+     ForwardAgent yes
+
+Host *.staging *.testing *.sprinting *.gb? *.sg? *.de? *.my? *.tw? *.id? *.id?? *.in? *.in?? *.hk? *.ie? *.jp? *.ph? *.preprod *.th? *.th?? *.usw? *.vn?
+     User root
+     Port 2222
+     ForwardAgent yes
+     StrictHostKeyChecking no
