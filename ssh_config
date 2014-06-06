@@ -2,6 +2,10 @@ Host deals.lv
      User aerobitch 
      ForwardAgent yes
 
+Host bankueksperti.lv
+    User semjon
+    ForwardAgent yes
+
 Host *.staging.swiftserve.com *.testing.swiftserve.com *.sprinting.swiftserve.com
      User root
      Port 2222
