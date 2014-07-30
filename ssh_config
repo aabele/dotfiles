@@ -6,7 +6,7 @@ Host bankueksperti.lv
     User semjon
     ForwardAgent yes
 
-Host *.staging.swiftserve.com *.testing.swiftserve.com *.sprinting.swiftserve.com
+Host *.*.swiftserve.com
      User root
      Port 2222
      ForwardAgent yes
